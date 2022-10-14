@@ -6,5 +6,5 @@ Password managers have emerged as a solution to having to track all the various 
 A password manager allows individuals and businesses to save and manage all their passwords from one safe space. Thus, users will no longer be required to remember multiple passwords. It saves passwords for their respective accounts and can only be unlocked by the administrator in charge of those accounts.The passwords are stored in an encrypted vault that can only be accessed by someone with the right credentials.
 Programming Language Applied is Python where there was use of the 
 fernet key.
-The most suitable coding environment used is Virtual Studio Code having 
+The most suitable coding environment used is Visual Studio Code having 
 the Hosting Platform being Github.
